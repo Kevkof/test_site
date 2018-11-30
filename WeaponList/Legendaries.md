@@ -9,7 +9,6 @@
 <li>AAEPD "Volcano JC"</li>
 <li>AAEPD "Volcano JC"</li>
 <li>AMG-556 'Medusa'</li>
-<li>AMG-556 'Medusa'</li>
 <li>Colby Commander</li>
 <li>Colby Commander</li>
 <li>Colby Commander</li>
@@ -37,10 +36,10 @@
 <li>FFA 5.56 R&D III</li>
 <li>FFA 5.56 R&D III</li>
 <li>FFA 5.56 R&D III</li>
+<li>Firework Launcher</li>
 <li>Firework Launcher</li>
 <li>Firework Launcher</li>
 <li>Mountie SF9 'Yukon'</li>
-<li>N-HVR 243 'Sitting Duck'</li>
 <li>N-HVR 243 'Sitting Duck'</li>
 <li>N-HVR 243 'Sitting Duck'</li>
 <li>N-HVR 243-SD 'Reaper'</li>
@@ -50,10 +49,12 @@
 <li>NCR-762 'Anubis' Adeen</li>
 <li>NCR-762 'Anubis' Adeen</li>
 <li>NCR-762 'Anubis' Adeen</li>
+<li>NCR-762 'Anubis' Adeen</li>
 <li>NFAS-12 'True Ogre'</li>
 <li>NFAS-12 'True Ogre'</li>
 <li>NFAS-12 'True Ogre'</li>
 <li>NFAS-12 'True Ogre'</li>
+<li>OCA Nano 'Connoisseur'</li>
 <li>OCA Nano 'Connoisseur'</li>
 <li>OCSP 'Kommandant' Clubs</li>
 <li>OCSP 'Kommandant' Diamonds</li>
@@ -67,6 +68,7 @@
 <li>Raptor 45 'Condor'</li>
 <li>Raptor 45 'Condor'</li>
 <li>Showstopper 'Thunder'</li>
+<li>UL-3 'Bloody Mary'</li>
 <li>UL-3 'Bloody Mary'</li>
 <li>UL-3 'Hitchhiker'</li>
 <li>UL-3 'Jersey Devil'</li>

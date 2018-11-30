@@ -2,6 +2,17 @@
 
 | Product | Price | Date |
 |:---|---:|---:|
+| Joker Mystery Box 1 (5 Pack + 1 Bonus) | 495 G1C | 2018-11-26 19:45 |
+| Joker Mystery Box 1 | 99 G1C | 2018-11-26 19:45 |
+| Joker Mystery Box 1 (20 Pack + 5 Bonus) | 1,584 G1C | 2018-11-26 19:24 |
+| Joker Mystery Box 1 (20 Pack + 5 Bonus) | 1,584 G1C | 2018-11-26 19:24 |
+| Joker Mystery Box 1 (20 Pack + 5 Bonus) | 1,584 G1C | 2018-11-26 19:24 |
+| Joker Mystery Box 1 (20 Pack + 5 Bonus) | 1,584 G1C | 2018-11-26 19:24 |
+| Legwarmers | 49 G1C | 2018-11-23 15:15 |
+| Character Name Change | 959 G1C | 2018-11-05 01:04 |
+| Epidemic Decal Sheet | 159 G1C | 2018-11-03 00:06 | 
+| Halloween Costume Symbol Sheet | 159 G1C | 2018-11-03 00:06 | 
+| Halloween Animal Symbol Sheet | 159 G1C | 2018-11-03 00:06 | 
 | FAR 'Spearhead' (Account Lifetime) | 1,949 G1C | 2018-09-30 23:52  |
 | Goth Highlander Pack | 1,119 G1C | 2018-09-09 19:50 |
 | Joker Mystery Box 21 (20 Pack + 5 Bonus)| 1,980 G1C | 2018-08-17 22:40|
