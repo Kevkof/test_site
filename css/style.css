@@ -798,3 +798,7 @@ div#header {
 div#title {
   display: none
 }
+span.info{
+  color: #fff;
+  font-style: italic
+}
